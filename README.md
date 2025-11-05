@@ -27,7 +27,7 @@ The repository should contain the following files:
 
 ```
 .
-├── task2_script.py
+├── transformation.py
 └── sample_733fa042.csv  # The input data file
 └── README.md
 ```
@@ -38,12 +38,12 @@ The repository should contain the following files:
 2.  Run the script from your terminal:
 
 ```bash
-python3 task2_script.py
+python3 transformation.py
 ```
 
 The script will print the final DataFrame's column names and their corrected data types to the console.
 
-## Script Functionality (`task2_script.py`)
+## Script Functionality (`transformation.py`)
 
 The script performs the following key steps:
 
